@@ -5,4 +5,3 @@ Implemented the Node.JS Project which is the Restful APIs Project. JSON data sto
 Technology Stack: JavaScript, HTML, CSS, Express Node.js, JSON
 
 
-# NodeJSMoviesAPI
